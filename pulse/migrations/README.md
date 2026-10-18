@@ -1,0 +1,1 @@
+Migrations are generated from the models. Run `python manage.py makemigrations pulse` and `python manage.py migrate`.
